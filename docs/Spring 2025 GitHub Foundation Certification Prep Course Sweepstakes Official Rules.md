@@ -30,7 +30,7 @@ The Sweepstakes starts at **12:00 a.m. Pacific Time (PT) on March 31, 2025**, an
 
 ## ELIGIBILITY
 
-To enter, you must be **14 years of age or older** with an **active GitHub account**. If you are 14 years of age or older but have not reached the age of majority in your legal place of residence, then you must have consent of a parent/legal guardian.
+To enter, you must be **25 years of age or older** with an **active GitHub account**. If you are 14 years of age or older but have not reached the age of majority in your legal place of residence, then you must have consent of a parent/legal guardian.
 
 **Not eligible:** Employees and directors of Microsoft Corporation, its subsidiaries, affiliates, advertising agencies, and Sweepstakes Parties. Void in Cuba, Iran, North Korea, Sudan, Syria, Region of Crimea, Russia, and where prohibited.
 
