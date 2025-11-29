@@ -8,11 +8,20 @@
 ---
 
 ## Update für: 
-- pornhub.com  
-- pornhubpremium.com  
-- brazzers.xxx  
-
----
+**Verbundene Domains:**
+- www.pornhub.com
+- www.pornhub.org
+- www.pornhub.xxx
+- www.pornhub.de
+- www.pornhubpremium.com
+- www.brazzers.com
+- www.de.pornhub.org/model/bellacore
+- www.pornhubapparel.com
+- www.de.pornhub.org/blog  
+- www.pornhubpremium.com
+- www.brazzers.xxx
+- www.xhamster.com (Schnittstellenprüfung)
+- alle Subdomains unter dem Eigentum von Isabel Schöps, geborene Thiel
 
 ## WICHTIGE MITTEILUNG an alle Nutzer von Pornhub.com und deren Subdomains:
 
